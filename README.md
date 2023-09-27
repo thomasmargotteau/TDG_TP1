@@ -55,7 +55,7 @@ void iniGraphe(Graphe *graphe, FILE *file);
 
 Sert à :
 - lire l'ordre dans le document *data.txt* (qu'on appelle *file* dans le code) et le mettre dans la variable ordre de la structure ***Graphe***
-- [allouer dynamiquement un espace dynamique pour la matrice d'ordre "ordre"](https://github.com/thomasmargotteau/TDG_TP1/edit/main/README.md#pour-allouer-dynamiquement-un-espace-dynamique-dune-matrice-) (ici 7)
+- allouer dynamiquement un espace dynamique pour la matrice d'ordre "ordre" (ici 7)
 - remplir la matrice avec les données du fichier
 - allouer dynamiquement un espace dynamique pour le tableau de sommets
 
